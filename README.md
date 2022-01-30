@@ -11,7 +11,9 @@ pip3 install -r requirements.txt
 ```
 * Windows
 run `setup.bat` for install library
-
+```
+pip install -r requirements.txt
+```
 
 ### Usage
 * Linux
